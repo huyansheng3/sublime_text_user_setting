@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CSS Format",
+		"DocBlockr",
+		"Emmet",
+		"FileHeader",
+		"Javascript Beautify",
+		"JSX",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"WakaTime"
+	]
+}

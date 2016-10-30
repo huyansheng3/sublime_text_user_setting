@@ -1,0 +1,8 @@
+[
+  { "keys": ["super+ctrl+z"], "command": "alignment" },
+  { "keys": ["super+shift+space"], "command": "expand_selection", "args": {"to": "brackets"} },
+	{ "keys": ["super+e"], "command": "expand_selection", "args": {"to": "scope"} },
+  { "keys": ["super+shift+j"], "command": "expand_selection", "args": {"to": "indentation"} },
+  { "keys": ["super+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
+
+]
